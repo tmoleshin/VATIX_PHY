@@ -1,0 +1,4 @@
+Change Net Name : Old Net Name=NetC26_1 New Net Name=1P2V_FPGA
+Change Net Name : Old Net Name=NetC34_1 New Net Name=2P5V_FPGA
+Change Net Color : Old Net Color=RGB(110, 255, 255) New Net Color=Default
+Change Net Color : Old Net Color=RGB(110, 110, 255) New Net Color=RGB(110, 255, 255)

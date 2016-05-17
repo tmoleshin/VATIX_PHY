@@ -1,0 +1,31 @@
+Change Component Designator: OldDesignator=C56 NewDesignator=C57
+Change Component Designator: OldDesignator=C57 NewDesignator=C58
+Change Component Designator: OldDesignator=C58 NewDesignator=C59
+Change Component Designator: OldDesignator=C59 NewDesignator=C60
+Change Component Designator: OldDesignator=C60 NewDesignator=C61
+Change Component Designator: OldDesignator=C61 NewDesignator=C62
+Change Component Designator: OldDesignator=C62 NewDesignator=C63
+Change Component Designator: OldDesignator=C63 NewDesignator=C64
+Change Component Designator: OldDesignator=C64 NewDesignator=C65
+Change Component Designator: OldDesignator=C65 NewDesignator=C66
+Change Component Designator: OldDesignator=C66 NewDesignator=C67
+Change Component Designator: OldDesignator=C67 NewDesignator=C68
+Change Component Designator: OldDesignator=C68 NewDesignator=C69
+Change Component Designator: OldDesignator=C69 NewDesignator=C70
+Change Component Designator: OldDesignator=C70 NewDesignator=C71
+Change Component Designator: OldDesignator=C71 NewDesignator=C72
+Change Component Designator: OldDesignator=C72 NewDesignator=C73
+Change Component Designator: OldDesignator=C73 NewDesignator=C74
+Change Component Designator: OldDesignator=C74 NewDesignator=C75
+Added Component: Designator=C56(CC0402_p56_TLH)
+Added Pin To Net: NetName=NetC48_1 Pin=C56-1
+Added Pin To Net: NetName=GND Pin=C56-2
+Change Net Name : Old Net Name=NetC48_1 New Net Name=3P3V_FPGA
+Change Net Name : Old Net Name=NetC60_1 New Net Name=NetC61_1
+Change Net Name : Old Net Name=NetC65_1 New Net Name=NetC66_1
+Change Net Name : Old Net Name=NetC66_1 New Net Name=NetC67_1
+Change Net Name : Old Net Name=NetC68_1 New Net Name=NetC69_1
+Change Net Name : Old Net Name=NetC72_1 New Net Name=NetC73_1
+Change Net Name : Old Net Name=NetC74_1 New Net Name=NetC75_1
+Change Net Color : Old Net Color=Yellow New Net Color=Default
+Added Member To Class: ClassName=VALIX_Font14 Member=Component C75 Cap 47pF 50V 0402 NPO

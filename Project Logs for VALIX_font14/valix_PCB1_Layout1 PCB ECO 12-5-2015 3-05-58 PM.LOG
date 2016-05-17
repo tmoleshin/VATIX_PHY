@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetR35_2 Pin=R37-1
+Removed Pin From Net: NetName=GND Pin=R40-2
+Change Component Designator: OldDesignator=R38 NewDesignator=R37
+Change Component Designator: OldDesignator=R41 NewDesignator=R40
+Added Component: Designator=R38(RES_ Pot_3pin_318x231x416_Bourns3223W)
+Added Component: Designator=R41(CC0402_p56_TLH)
+Added Pin To Net: NetName=NetR35_2 Pin=R38-1
+Added Pin To Net: NetName=GND Pin=R41-2
+Added Pin To Net: NetName=NetR35_2 Pin=U12-3
+Added Pin To Net: NetName=NetR38_3 Pin=R38-3
+Added Pin To Net: NetName=NetR38_3 Pin=R41-1
+Added Net: Name=NetR38_3

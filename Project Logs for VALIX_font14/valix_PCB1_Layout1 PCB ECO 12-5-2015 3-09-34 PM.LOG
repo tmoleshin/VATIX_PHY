@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=NetR38_2 Pin=R38-2
+Added Pin To Net: NetName=NetR38_2 Pin=U13-1
+Added Net: Name=NetR38_2
+Added Member To Class: ClassName=VALIX_Font14 Member=Component R38 500
+Added Member To Class: ClassName=VALIX_Font14 Member=Component R41 12.4k

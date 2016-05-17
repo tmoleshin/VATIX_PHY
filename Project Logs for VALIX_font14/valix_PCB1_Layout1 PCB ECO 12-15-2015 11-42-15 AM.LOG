@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=LED2_B Pin=U1-K11
+Removed Pin From Net: NetName=LED2_R Pin=U1-K12
+Removed Pin From Net: NetName=LED2_G Pin=U1-K14
+Removed Pin From Net: NetName=LED3_B Pin=U1-L15
+Removed Pin From Net: NetName=LED3_G Pin=U1-L16
+Removed Pin From Net: NetName=LED1_B Pin=U1-M14
+Removed Pin From Net: NetName=LED1_R Pin=U1-N16
+Removed Pin From Net: NetName=LED1_G Pin=U1-P16
+Added Pin To Net: NetName=LED2_B Pin=U1-M15
+Added Pin To Net: NetName=LED3_B Pin=U1-N16
+Added Pin To Net: NetName=LED1_B Pin=U1-P14
+Added Pin To Net: NetName=LED2_R Pin=U1-P15
+Added Pin To Net: NetName=LED3_G Pin=U1-P16
+Added Pin To Net: NetName=LED1_R Pin=U1-R14
+Added Pin To Net: NetName=LED1_G Pin=U1-T14
+Added Pin To Net: NetName=LED2_G Pin=U1-T15

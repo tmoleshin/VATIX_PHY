@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=MRAM_DQU11 Pin=U1-E7
+Removed Pin From Net: NetName=MRAM_DQU10 Pin=U1-F7
+Removed Pin From Net: NetName=MRAM_A11 Pin=U1-G12
+Removed Pin From Net: NetName=MRAM_A10 Pin=U1-H12
+Added Pin To Net: NetName=MRAM_DQU10 Pin=U1-E7
+Added Pin To Net: NetName=MRAM_DQU11 Pin=U1-F7
+Added Pin To Net: NetName=MRAM_A10 Pin=U1-G12
+Added Pin To Net: NetName=MRAM_A11 Pin=U1-H12

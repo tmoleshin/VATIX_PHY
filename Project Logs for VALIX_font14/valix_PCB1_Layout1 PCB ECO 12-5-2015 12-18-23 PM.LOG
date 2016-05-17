@@ -1,0 +1,12 @@
+Change Component Designator: OldDesignator=C70 NewDesignator=C71
+Change Component Designator: OldDesignator=C71 NewDesignator=C72
+Change Component Designator: OldDesignator=C72 NewDesignator=C73
+Change Component Designator: OldDesignator=C73 NewDesignator=C74
+Added Component: Designator=C70(CC0402_p56_TLH)
+Added Pin To Net: NetName=2.5V Pin=C70-1
+Added Pin To Net: NetName=GND Pin=C70-2
+Change Net Name : Old Net Name=NetC71_1 New Net Name=NetC72_1
+Change Net Name : Old Net Name=NetC73_1 New Net Name=NetC74_1
+Added Member To Class: ClassName=VALIX_Font14 Member=Component C66 Cap 1.0uF 6.3V 0402 X7R
+Added Member To Class: ClassName=VALIX_Font14 Member=Component C74 Cap 47pF 50V 0402 NPO
+Added Member To Class: ClassName=VALIX_Font14 Member=Component U12 LT6014CDD
